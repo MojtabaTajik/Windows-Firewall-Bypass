@@ -1,2 +1,2 @@
 # Windows-Firewall-Bypass
-Funny way to bypass default Windows firewall
+Funny way to bypass Windows firewall by simulating mouse actions
